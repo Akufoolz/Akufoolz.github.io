@@ -18,8 +18,8 @@
 }
 
 .hello-world {
-  position: absolute;
-  top: 128px;
+  display: block;
+  margin-top: 128px;
   color: white;
   font-size: 64px;
   font-weight: bold;
