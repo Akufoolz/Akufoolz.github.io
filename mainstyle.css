@@ -1,4 +1,6 @@
-body {
+.container {
+  height: 100%;
+  width: 100%;
   background: linear-gradient(45deg, teal, darkviolet) fixed;
   background: -moz-linear-gradient(45deg, teal, darkviolet) fixed;
   background: -webkit-linear-gradient(45deg, teal, darkviolet) fixed;
