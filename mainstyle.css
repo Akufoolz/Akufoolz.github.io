@@ -1,8 +1,8 @@
 body {
-  background: linear-gradient(45deg, teal, purple) fixed;
-  background: -moz-linear-gradient(45deg, teal, purple) fixed;
-  background: -webkit-linear-gradient(45deg, teal, purple) fixed;
-  background: -o-linear-gradient(45deg, teal, purple) fixed;
+  background: linear-gradient(45deg, teal, darkviolet) fixed;
+  background: -moz-linear-gradient(45deg, teal, darkviolet) fixed;
+  background: -webkit-linear-gradient(45deg, teal, darkviolet) fixed;
+  background: -o-linear-gradient(45deg, teal, darkviolet) fixed;
   text-align: center;
   margin-top: 128px;
 }
