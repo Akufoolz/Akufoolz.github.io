@@ -9,7 +9,6 @@
   background: -webkit-linear-gradient(45deg, teal, darkviolet) fixed;
   background: -o-linear-gradient(45deg, teal, darkviolet) fixed;
   text-align: center;
-  margin-top: 128px;
 }
 
 .hello-world {
@@ -17,4 +16,5 @@
   font-size: 32px;
   font-weight: bold;
   font-family: 'Press Start 2P', cursive;
+  margin-top: 128px;
 }
